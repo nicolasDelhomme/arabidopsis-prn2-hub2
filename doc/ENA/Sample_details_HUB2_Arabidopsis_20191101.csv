@@ -1,0 +1,25 @@
+ExperimentTitle,SampleName,SampleDescription,SequencingDate,FileName,FileLocation
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R1_C1,Col_0 R1,2019-07-18T10:00:00,R1_C1_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R1_C1,Col_0 R1,2019-07-18T10:00:00,R1_C1_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R2_C2,Col_0 R2,2019-07-18T10:00:00,R2_C2_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R2_C2,Col_0 R2,2019-07-18T10:00:00,R2_C2_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R3_C3,Col_0 R3,2019-07-18T10:00:00,R3_C3_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R3_C3,Col_0 R3,2019-07-18T10:00:00,R3_C3_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R10_HP1,hub2_2 prn2_2 R1,2019-07-18T10:00:00,R10_HP1_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R10_HP1,hub2_2 prn2_2 R1,2019-07-18T10:00:00,R10_HP1_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R11_HP2,hub2_2 prn2_2 R2,2019-07-18T10:00:00,R11_HP2_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R11_HP2,hub2_2 prn2_2 R2,2019-07-18T10:00:00,R11_HP2_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R12_HP3,hub2_2 prn2_2 R3,2019-07-18T10:00:00,R12_HP3_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R12_HP3,hub2_2 prn2_2 R3,2019-07-18T10:00:00,R12_HP3_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R7_H1,hub2_2 R1,2019-07-18T10:00:00,R7_H1_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R7_H1,hub2_2 R1,2019-07-18T10:00:00,R7_H1_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R8_H2,hub2_2 R2,2019-07-18T10:00:00,R8_H2_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R8_H2,hub2_2 R2,2019-07-18T10:00:00,R8_H2_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R9_H3,hub2_2 R3,2019-07-18T10:00:00,R9_H3_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R9_H3,hub2_2 R3,2019-07-18T10:00:00,R9_H3_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R4_P1,prn2_2 R1,2019-07-18T10:00:00,R4_P1_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R4_P1,prn2_2 R1,2019-07-18T10:00:00,R4_P1_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R5_P2,prn2_2 R2,2019-07-18T10:00:00,R5_P2_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R5_P2,prn2_2 R2,2019-07-18T10:00:00,R5_P2_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R6_P3,prn2_2 R3,2019-07-18T10:00:00,R6_P3_1.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data
+Illumina sequencing of Arabidopsis hub2 and prn2 mutants,R6_P3,prn2_2 R3,2019-07-18T10:00:00,R6_P3_2.fq.gz,/mnt/picea/storage/data/arabidopsis/htuominen/arabidopsis-pib-scwf/X201SC19070081-Z01-F001/raw_data

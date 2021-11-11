@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDY_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.study.xsd">
+ <STUDY alias="UPSC-0116" center_name="UPSC">
+  <DESCRIPTOR>
+   <STUDY_TITLE>H3K4me3 and H3K36me3 modifications in Arabidopsis mutants for pirin2 and hub2</STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="Epigenetics"/>
+   <STUDY_ABSTRACT>The abundancies of Histone H3 Lysine 4 trimethylation (H3K4me3) and H3K36me3 were analysed by Chromatin immunoprecipitation and DNA sequencing in Arabidopsis thaliana hypocotyls. The assays were performed in two different genotypes; a knock-out mutant (SM_3.15394) for the PIRIN2 gene (At2g43120) and a knock-out mutant (GABI_634H04) for the Histone H2B MONOUBIQUITINATION 2 (HUB2; At1g55250). Three biological replicates, each consisting of a large pool of hypocotyls, was assayed for each genotype. &#13;
+Hypocotyls were collected from 6 weeks SD (short days) + 4 weeks LD (long days) grown plants and cross-linked immediately in 1% formaldehyde. Chromatin preparation and Immunoprecipitation were performed by standard procedures. Library construction and DNA sequencing was performed by Beijing Genome Institute. Bioinformatic analyses were performed in house.</STUDY_ABSTRACT>
+  </DESCRIPTOR>
+ </STUDY>
+</STUDY_SET>

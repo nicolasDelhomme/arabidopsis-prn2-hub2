@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2017-12-06T13:16:11.140Z" submissionFile="UPSC-0116.Submission.xml" success="true">
+     <EXPERIMENT accession="ERX2269372" alias="UPSC-0116-E0001" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269373" alias="UPSC-0116-E0002" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269374" alias="UPSC-0116-E0003" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269375" alias="UPSC-0116-E0004" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269376" alias="UPSC-0116-E0005" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269377" alias="UPSC-0116-E0006" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269378" alias="UPSC-0116-E0007" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269379" alias="UPSC-0116-E0008" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269380" alias="UPSC-0116-E0009" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269381" alias="UPSC-0116-E0010" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269382" alias="UPSC-0116-E0011" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269383" alias="UPSC-0116-E0012" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269384" alias="UPSC-0116-E0013" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269385" alias="UPSC-0116-E0014" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269386" alias="UPSC-0116-E0015" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2269387" alias="UPSC-0116-E0016" status="PRIVATE"/>
+     <RUN accession="ERR2214576" alias="UPSC-0116-R0001" status="PRIVATE"/>
+     <RUN accession="ERR2214577" alias="UPSC-0116-R0002" status="PRIVATE"/>
+     <RUN accession="ERR2214578" alias="UPSC-0116-R0003" status="PRIVATE"/>
+     <RUN accession="ERR2214579" alias="UPSC-0116-R0004" status="PRIVATE"/>
+     <RUN accession="ERR2214580" alias="UPSC-0116-R0005" status="PRIVATE"/>
+     <RUN accession="ERR2214581" alias="UPSC-0116-R0006" status="PRIVATE"/>
+     <RUN accession="ERR2214582" alias="UPSC-0116-R0007" status="PRIVATE"/>
+     <RUN accession="ERR2214583" alias="UPSC-0116-R0008" status="PRIVATE"/>
+     <RUN accession="ERR2214584" alias="UPSC-0116-R0009" status="PRIVATE"/>
+     <RUN accession="ERR2214585" alias="UPSC-0116-R0010" status="PRIVATE"/>
+     <RUN accession="ERR2214586" alias="UPSC-0116-R0011" status="PRIVATE"/>
+     <RUN accession="ERR2214587" alias="UPSC-0116-R0012" status="PRIVATE"/>
+     <RUN accession="ERR2214588" alias="UPSC-0116-R0013" status="PRIVATE"/>
+     <RUN accession="ERR2214589" alias="UPSC-0116-R0014" status="PRIVATE"/>
+     <RUN accession="ERR2214590" alias="UPSC-0116-R0015" status="PRIVATE"/>
+     <RUN accession="ERR2214591" alias="UPSC-0116-R0016" status="PRIVATE"/>
+     <SAMPLE accession="ERS2036275" alias="UPSC-0116-S0001" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418333" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036276" alias="UPSC-0116-S0002" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418334" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036277" alias="UPSC-0116-S0003" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418335" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036278" alias="UPSC-0116-S0004" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418336" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036279" alias="UPSC-0116-S0005" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418337" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036280" alias="UPSC-0116-S0006" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418338" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036281" alias="UPSC-0116-S0007" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418339" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036282" alias="UPSC-0116-S0008" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418340" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036283" alias="UPSC-0116-S0009" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418341" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036284" alias="UPSC-0116-S0010" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418342" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036285" alias="UPSC-0116-S0011" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418343" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036286" alias="UPSC-0116-S0012" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418344" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036287" alias="UPSC-0116-S0013" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418345" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036288" alias="UPSC-0116-S0014" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418346" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036289" alias="UPSC-0116-S0015" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418347" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS2036290" alias="UPSC-0116-S0016" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="SAMEA104418348" type="biosample"/>
+     </SAMPLE>
+     <STUDY accession="ERP105577" alias="UPSC-0116" status="PRIVATE" holdUntilDate="2019-12-05Z">
+          <EXT_ID accession="PRJEB23799" type="Project"/>
+     </STUDY>
+     <SUBMISSION accession="ERA1150758" alias="UPSC-0116"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to private status (HOLD).</INFO>
+          <INFO>Submission has been committed.</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>HOLD</ACTIONS>
+</RECEIPT>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDY_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.study.xsd">
+ <STUDY alias="UPSC-0158" center_name="UPSC">
+  <DESCRIPTOR>
+   <STUDY_TITLE>HUB2 influences lignification</STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="RNASeq"/>
+   <STUDY_ABSTRACT>PIRIN2 (PRN2) was earlier reported as the first known molecular player in the regulation of non-cell-autonomous lignification of xylem vessels in Arabidopsis (Arabidopsis thaliana).
+In the present study we characterized HUB2 (HISTONE MONOUBIQUITINATION2), one of the protein interactors of PRN2, in relation to lignification. Thus we aim to broaden the understanding of non-cell-autonomous lignification and simultaneously provide new information on a protein, which was previously characterized in other aspects of plant development.
+Protein interaction was tested by yeast two-hybrid assay, beta-galactosidase enzymatic assay and co-immunoprecipitation assay. The morphology and chemical composition of secondary cell walls of Arabidopsis stems and/or hypocotyls was determined by transmission electron microscopy and pyrolysis-gas chromatography/mass spectrometry. Fourier Transform Infrared (FT-IR) and Raman microspectroscopy were employed for the chemical fingerprinting of individual xylem cell walls.
+HUB2 promoted the deposition of S-type lignin and suppressed the accumulation of G-type lignin in the secondary cell walls of xylem vessels. Transcriptome analysis revealed that PRN2 and HUB2 antagonistically regulate the expression of specific lignin-related genes, and thus lignification.</STUDY_ABSTRACT>
+  </DESCRIPTOR>
+ </STUDY>
+</STUDY_SET>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0116-S0001" center_name="UPSC">
+  <TITLE>H3K4 Col0 replicate A</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K4 Col0 replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0002" center_name="UPSC">
+  <TITLE>H3K4 Col0 replicate B</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K4 Col0 replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0003" center_name="UPSC">
+  <TITLE>H3K4 Col0 replicate C</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K4 Col0 replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0004" center_name="UPSC">
+  <TITLE>H3K4 hub replicate A</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K4 hub replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0005" center_name="UPSC">
+  <TITLE>H3K4 hub replicate B</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K4 hub replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0006" center_name="UPSC">
+  <TITLE>H3K4 hub replicate C</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K4 hub replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0007" center_name="UPSC">
+  <TITLE>H3K4 prn replicate A</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K4 prn replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0008" center_name="UPSC">
+  <TITLE>H3K4 prn replicate B</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K4 prn replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0009" center_name="UPSC">
+  <TITLE>H3K36 Col0 replicate A</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K36 Col0 replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0010" center_name="UPSC">
+  <TITLE>H3K36 Col0 replicate B</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K36 Col0 replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0011" center_name="UPSC">
+  <TITLE>H3K36 Col0 replicate C</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K36 Col0 replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0012" center_name="UPSC">
+  <TITLE>H3K36 hub replicate A</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K36 hub replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0013" center_name="UPSC">
+  <TITLE>H3K36 hub replicate B</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K36 hub replicate B</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0014" center_name="UPSC">
+  <TITLE>H3K36 hub replicate C</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K36 hub replicate C</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0015" center_name="UPSC">
+  <TITLE>H3K36 prn replicate A</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K36 prn replicate A</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0116-S0016" center_name="UPSC">
+  <TITLE>H3K36 prn replicate C</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>H3K36 prn replicate C</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>
